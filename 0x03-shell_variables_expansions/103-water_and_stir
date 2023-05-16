@@ -1,0 +1,2 @@
+#!/bin/bash
+echo S(printf %o S((S((5#S(echoSWATER | tr 'water' '01234'))) + S((5# '01234'))))) | tr '01234567 'bestchol')
